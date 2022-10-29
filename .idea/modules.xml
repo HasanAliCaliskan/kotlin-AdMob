@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinAdMob.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinAdMob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/KotlinAdMob.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
